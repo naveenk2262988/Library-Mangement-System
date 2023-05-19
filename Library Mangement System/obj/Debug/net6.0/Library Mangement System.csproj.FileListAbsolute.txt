@@ -1,0 +1,7 @@
+C:\Users\nk260\source\repos\Library Mangement System\Library Mangement System\obj\Debug\net6.0\Library Mangement System.csproj.AssemblyReference.cache
+C:\Users\nk260\source\repos\Library Mangement System\Library Mangement System\obj\Debug\net6.0\Library Mangement System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nk260\source\repos\Library Mangement System\Library Mangement System\obj\Debug\net6.0\Library Mangement System.AssemblyInfoInputs.cache
+C:\Users\nk260\source\repos\Library Mangement System\Library Mangement System\obj\Debug\net6.0\Library Mangement System.AssemblyInfo.cs
+C:\Users\nk260\source\repos\Library Mangement System\Library Mangement System\obj\Debug\net6.0\Library Mangement System.csproj.CoreCompileInputs.cache
+C:\Users\nk260\source\repos\Library Mangement System\Library Mangement System\obj\Debug\net6.0\Library Mangement System.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nk260\source\repos\Library Mangement System\Library Mangement System\obj\Debug\net6.0\Library Mangement System.MvcApplicationPartsAssemblyInfo.cache

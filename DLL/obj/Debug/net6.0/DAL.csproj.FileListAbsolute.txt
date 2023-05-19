@@ -1,0 +1,5 @@
+C:\Users\nk260\source\repos\Library Mangement System\DLL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\nk260\source\repos\Library Mangement System\DLL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nk260\source\repos\Library Mangement System\DLL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\nk260\source\repos\Library Mangement System\DLL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\nk260\source\repos\Library Mangement System\DLL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
