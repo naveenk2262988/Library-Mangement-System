@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nk260\\source\\repos\\Library Mangement System\\DLL\\DAL.csproj": {}
+    "C:\\Users\\2262988\\Downloads\\Library Mangement System (2)new\\Library Mangement System\\DLL\\DAL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nk260\\source\\repos\\Library Mangement System\\DLL\\DAL.csproj": {
+    "C:\\Users\\2262988\\Downloads\\Library Mangement System (2)new\\Library Mangement System\\DLL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nk260\\source\\repos\\Library Mangement System\\DLL\\DAL.csproj",
+        "projectUniqueName": "C:\\Users\\2262988\\Downloads\\Library Mangement System (2)new\\Library Mangement System\\DLL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "C:\\Users\\nk260\\source\\repos\\Library Mangement System\\DLL\\DAL.csproj",
-        "packagesPath": "C:\\Users\\nk260\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nk260\\source\\repos\\Library Mangement System\\DLL\\obj\\",
+        "projectPath": "C:\\Users\\2262988\\Downloads\\Library Mangement System (2)new\\Library Mangement System\\DLL\\DAL.csproj",
+        "packagesPath": "C:\\Users\\2262988\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\2262988\\Downloads\\Library Mangement System (2)new\\Library Mangement System\\DLL\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\nk260\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\2262988\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -42,17 +45,17 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[6.0.16, )"
+              "version": "[7.0.5, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[6.0.16, )"
+              "version": "[7.0.5, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.16, )"
+              "version": "[7.0.5, )"
             }
           },
           "imports": [
@@ -71,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

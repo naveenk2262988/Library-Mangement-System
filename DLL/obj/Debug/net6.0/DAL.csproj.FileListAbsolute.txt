@@ -3,3 +3,31 @@ C:\Users\nk260\source\repos\Library Mangement System\DLL\obj\Debug\net6.0\DAL.Ge
 C:\Users\nk260\source\repos\Library Mangement System\DLL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
 C:\Users\nk260\source\repos\Library Mangement System\DLL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
 C:\Users\nk260\source\repos\Library Mangement System\DLL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\2263025\Desktop\Library Mangement System\DLL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\2263025\Desktop\Library Mangement System\DLL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2263025\Desktop\Library Mangement System\DLL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\2263025\Desktop\Library Mangement System\DLL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\2263025\Desktop\Library Mangement System\DLL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\2263025\Desktop\Library Mangement System\DLL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\2263025\Desktop\Library Mangement System\DLL\bin\Debug\net6.0\DAL.runtimeconfig.json
+C:\Users\2263025\Desktop\Library Mangement System\DLL\bin\Debug\net6.0\DAL.dll
+C:\Users\2263025\Desktop\Library Mangement System\DLL\bin\Debug\net6.0\DAL.pdb
+C:\Users\2263025\Desktop\Library Mangement System\DLL\obj\Debug\net6.0\DAL.dll
+C:\Users\2263025\Desktop\Library Mangement System\DLL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\2263025\Desktop\Library Mangement System\DLL\obj\Debug\net6.0\DAL.pdb
+C:\Users\2263025\Desktop\Library Mangement System\DLL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+C:\Users\2263025\Desktop\Library Mangement System\DLL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\2262988\Downloads\Library Mangement System (2)new\Library Mangement System\DLL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\2262988\Downloads\Library Mangement System (2)new\Library Mangement System\DLL\bin\Debug\net6.0\DAL.runtimeconfig.json
+C:\Users\2262988\Downloads\Library Mangement System (2)new\Library Mangement System\DLL\bin\Debug\net6.0\DAL.dll
+C:\Users\2262988\Downloads\Library Mangement System (2)new\Library Mangement System\DLL\bin\Debug\net6.0\DAL.pdb
+C:\Users\2262988\Downloads\Library Mangement System (2)new\Library Mangement System\DLL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\2262988\Downloads\Library Mangement System (2)new\Library Mangement System\DLL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2262988\Downloads\Library Mangement System (2)new\Library Mangement System\DLL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\2262988\Downloads\Library Mangement System (2)new\Library Mangement System\DLL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\2262988\Downloads\Library Mangement System (2)new\Library Mangement System\DLL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\2262988\Downloads\Library Mangement System (2)new\Library Mangement System\DLL\obj\Debug\net6.0\DAL.dll
+C:\Users\2262988\Downloads\Library Mangement System (2)new\Library Mangement System\DLL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\2262988\Downloads\Library Mangement System (2)new\Library Mangement System\DLL\obj\Debug\net6.0\DAL.pdb
+C:\Users\2262988\Downloads\Library Mangement System (2)new\Library Mangement System\DLL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+C:\Users\2262988\Downloads\Library Mangement System (2)new\Library Mangement System\DLL\obj\Debug\net6.0\ref\DAL.dll
